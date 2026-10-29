@@ -84,3 +84,4 @@ def save_dual(img, name):
     print(f"Generated {name}.png and {name}.jpeg")
 
 print("Rendering helper initialized")
+

@@ -1017,3 +1017,4 @@ if __name__ == '__main__':
     make_deployed_dealer_detail()
     make_deployed_add_review()
     print("All screenshots generated successfully!")
+
